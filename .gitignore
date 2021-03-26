@@ -1,4 +1,5 @@
 Ignore*
+.DS_Store
 Builds*
 *.debug
 *.debug.app
